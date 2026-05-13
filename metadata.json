@@ -1,0 +1,12 @@
+{
+  "name": "Fazenda360",
+  "description": "Portal inteligente para compra e venda de fazendas, sítios e propriedades rurais com CRM, Data Room e IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Firebase",
+    "Gemini AI",
+    "Maps"
+  ]
+}
